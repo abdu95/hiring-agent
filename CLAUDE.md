@@ -34,3 +34,17 @@ If these disagree: ADRs and the spec win over meeting notes.
 ## Stack & commands
 
 _To be decided during grilling — fill in after the spec._
+
+## Agent skills
+
+### Issue tracker
+
+Issues and specs live in GitHub Issues on abdu95/hiring-agent (public), via the `gh` CLI. See `docs/agents/issue-tracker.md`.
+
+### Triage labels
+
+Default five-role vocabulary: needs-triage, needs-info, ready-for-agent, ready-for-human, wontfix. See `docs/agents/triage-labels.md`.
+
+### Domain docs
+
+Single-context: one `GLOSSARY.md` + `docs/adr/` at the repo root. See `docs/agents/domain.md`.
