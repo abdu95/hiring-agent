@@ -1,0 +1,4 @@
+.DS_Store
+
+# Client meeting notes contain names and business details; keep them local (repo is public)
+docs/meetings/
